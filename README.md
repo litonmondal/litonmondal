@@ -9,7 +9,7 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
 
 ## MY Skills:  <br>
 ✔ HTML       <br>
-✔ CSS/ Tailwind Css       <br>
+✔ CSS / Tailwind Css       <br>
 ✔ JS         <br>
 ✔ Bootstrap  <br>
 ✔ Jquery     <br>
