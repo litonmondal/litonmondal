@@ -41,10 +41,6 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
 
 
 
-<img src="https://camo.githubusercontent.com/d79c5549652f9c7698992eb49_65266c6f676f3d796f7574756
-266c6f676f436f6c6f723d7768697465" alt="Youtube Badge" data-canonical-
-src="https://img.shields.io/badge/YouTube-FFeeee?style-for-the-badge&logo=youtube&logoColor=white" style="max-width: 100%;">
-<a href="https://youtube.com/learnwithsumit" rel="nofollow"></a>
 
 
 
