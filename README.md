@@ -30,16 +30,6 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
 
 <h2 align="left">Connect with me!:</h2>
 <p align="left">
-<a href="https://fb.com/rightthinkweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rightthinkweb" height="30" width="40" /></a>
-<a href="https://twitter.com/litonmondal4212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="litonmondal4212" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rightthinweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rightthinweb" height="30" width="40" /></a>
-<a href="https://instagram.com/litoknmondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="litoknmondal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rightthinkweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rightthinkweb" height="30" width="40" /></a>
-</p>
-
-![Liton Mondal's GitHub stats](https://github-readme-stats.vercel.app/api?username=litonmondal&show_icons=true&bg_color=00000000)
-
-
 <a href="https://fb.com/rightthinkweb">
 <img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465"></a>
 
@@ -57,6 +47,12 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
 
 <a href="mailto:litondeveloperr@gmail.com">
 <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"></a>
+
+
+
+</p>
+
+![Liton Mondal's GitHub stats](https://github-readme-stats.vercel.app/api?username=litonmondal&show_icons=true&bg_color=00000000)
 
 
 
