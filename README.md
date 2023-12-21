@@ -3,10 +3,8 @@ I'm Liton Mondal
 #### Web Developer
 ![Web Developer](https://yt3.googleusercontent.com/lRlfhQQ445DpIQB0G79ooV1yWjswwUUU4-Ee3tXtUM4io9nDFo718qiihcsJuge_JbyF700g85s=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
-Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website design and development. I have more experience html5, css3, psd to html, bootstrap to WordPress website design. Always try to give better service to all client. When my client 100% satisfaction then I will happy. Thanks!!
-
+Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website design and WordPress Theme development. I have more experience html5, css3, TailWindCSS, psd to html, bootstrap, Jquery, JavaScript, PHP & Plugin Development. Always try to give better service to all client. When my client 100% satisfaction then I will happy. Thanks!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litonmondal&label=Profile%20views&color=0e75b6&style=flat" alt="litonmondal" /> </p>
-
 ## MY Skills:  <br>
 ✔ HTML       <br>
 ✔ CSS        <br>
@@ -47,9 +45,6 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
 
 <a href="mailto:litondeveloperr@gmail.com">
 <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"></a>
-
-
-
 </p>
 
 ![Liton Mondal's GitHub stats](https://github-readme-stats.vercel.app/api?username=litonmondal&show_icons=true&bg_color=00000000)
