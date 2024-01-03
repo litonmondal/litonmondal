@@ -5,10 +5,10 @@ I'm Liton Mondal
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litonmondal&label=Profile%20views&color=0e75b6&style=flat" alt="litonmondal" /> </p>
 
-## 🚀🚀About Me
+## 🚀About Me
 Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website design and WordPress Theme development. I have more experience html5, css3, TailWindCSS, psd to html, bootstrap, Jquery, JavaScript, PHP & Plugin Development. Always try to give better service to all client. When my client 100% satisfaction then I will happy. Thanks!!
 
-## 🤞🤞MY Skills:  <br>
+## 💪MY Skills:  <br>
 ✔ HTML       <br>
 ✔ CSS        <br>
 ✔ Tailwind Css       <br>
@@ -20,7 +20,7 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
 ✔ WordPress Website Design & Development. <br>
 ✔ Plugin Development <br>
 
-<h2 align="left">📶📶Connect with me!:</h2>
+<h2 align="left">📶Connect with me!:</h2>
 <p align="left">
 <a href="https://fb.com/rightthinkweb">
 <img src="https://camo.githubusercontent.com/7a20e6344e999300af0fcf52137a2b82a4158481ad5771ce743e20d0c0a84c4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook"></a>
@@ -45,7 +45,7 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>  <br>
 
-## ✍✍I'm Working & Learning<br>
+## ✍I'm Working & Learning<br>
 🔭 I’m currently working on Youtube  <br>
 🌱 I’m currently learning Javascript  <br>
 👯 I’m looking to collaborate on Github  <br>
