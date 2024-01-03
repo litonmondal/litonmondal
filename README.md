@@ -6,14 +6,14 @@ I'm Liton Mondal
 Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website design and WordPress Theme development. I have more experience html5, css3, TailWindCSS, psd to html, bootstrap, Jquery, JavaScript, PHP & Plugin Development. Always try to give better service to all client. When my client 100% satisfaction then I will happy. Thanks!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=litonmondal&label=Profile%20views&color=0e75b6&style=flat" alt="litonmondal" /> </p>
 
-## MY Skills:  <br>
+## 🤞🤞MY Skills:  <br>
 ✔ HTML       <br>
 ✔ CSS        <br>
 ✔ Tailwind Css       <br>
 ✔ Bootstrap  <br>
 ✔ Jquery     <br>
 ✔ JavaScript         <br>
-✔ PHP       <br>
+✔ PHP       <br> 
 ✔ PHD To Html <br>
 ✔ WordPress Website Design & Development. <br>
 ✔ Plugin Development <br>
