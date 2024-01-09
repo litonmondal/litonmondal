@@ -17,7 +17,7 @@ Hello.. I'm Liton Developer. I have 5 Years of experience with WordPress website
 ✔ JavaScript         <br>
 ✔ PHP       <br> 
 ✔ PHD To Html <br>
-✔ WordPress Website Design & Development. <br>
+✔ WordPress Website Design & Development <br>
 ✔ Plugin Development <br>
 
 <h2 align="left">📶Connect with me!:</h2>
